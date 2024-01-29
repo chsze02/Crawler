@@ -3,4 +3,4 @@ Pareses the webpage of a given URL, extracts any embedded URLs, then retrieves e
 
 #Directions:
 Make sure to have libcurl library installed.
--  sudo apt install libcurl4-gnutls-dev
+-     sudo apt install libcurl4-gnutls-dev
